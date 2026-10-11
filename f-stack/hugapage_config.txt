@@ -1,0 +1,3 @@
+# DPDK hugepage
+dpdk-hugepages.py -p 1G - setup 8G
+
